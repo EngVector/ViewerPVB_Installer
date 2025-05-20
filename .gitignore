@@ -1,0 +1,5 @@
+# Ignorar a pasta de instaladores .exe
+exe_Installers/
+
+# Ignorar todos os arquivos .zip no projeto
+*.zip
