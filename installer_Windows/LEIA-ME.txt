@@ -1,0 +1,45 @@
+===========================================
+          Vector - PvBrowser Viewer
+===========================================
+
+🔧 Descrição:
+Este instalador configura automaticamente o PvBrowser Viewer
+para acessar a aplicação supervisória da Vector.
+
+A instalação inclui:
+- Instalação do PvBrowser
+- Configuração automática de conexão
+- Atalho na Área de Trabalho para acesso rápido
+- Abertura em tela cheia, interface limpa e otimizada
+
+===========================================
+📜 Instruções de instalação:
+
+1️⃣ Execute o arquivo:
+   -> Instalacao_Completa.bat
+
+2️⃣ O instalador fará automaticamente:
+   ✅ Instalação do PvBrowser
+   ❗ Não altere a pasta padrão de instalação!
+   ✅ Aplicação das configurações
+   ✅ Criação de um atalho na sua Área de Trabalho:
+      -> Nome do atalho: "VectorPVB"
+
+3️⃣ Clique no atalho para abrir diretamente a aplicação.
+
+===========================================
+❗ Observações importantes:
+- É necessário acesso à internet para que o PvBrowser
+  possa se conectar ao servidor da Vector.
+- Em caso de desconexão, o sistema tentará reconectar
+  automaticamente.
+
+===========================================
+💻 Suporte Vector:
+Se você tiver dúvidas, problemas ou precisar de suporte,
+entre em contato conosco:
+
+📧 Email: engenharia1@vector.eng.br
+📞 Telefone: (35) 3622-7522
+
+===========================================
